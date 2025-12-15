@@ -11,5 +11,6 @@ Create the frontend can get the API from moodleLMS and have features: courses li
 1. Home  [https://elearning.3rdwavemedia.com/moodle/lumo/moodle-5/6/my/]
 2. Courses [https://elearning.3rdwavemedia.com/moodle/lumo/moodle-5/1/local/staticpage/view.php?page=catalog-1] -> Course detail [https://elearning.3rdwavemedia.com/moodle/lumo/moodle-5/6/local/staticpage/view.php?page=course-2] -> Course editing page (this is only use for role teachers) -> it will route to the moodle LMS and can edit the course.
 
+   
+![A mushroom-head robot drinking bubble tea](https://rebo.edu.vn/icons/logoREBOdark.svg)
 
-[![https://rebo.edu.vn/icons/logoREBOdark.svg](Image URL)]
